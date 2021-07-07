@@ -1,6 +1,6 @@
 /***
  * @author evelyn
- * Primera versión de Ejercicio4App
+ * Primera versiÃ³n de Ejercicio5App
  * Fecha de 07/07/2021
  */
 public class Ejercicio5App {
